@@ -1,0 +1,4 @@
+project_bhajan:
+    resource: "@ProjectCompositionBundle/Resources/config/routing.yml"
+    prefix:   /
+
