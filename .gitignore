@@ -10,3 +10,14 @@
 /bin/
 /composer.phar
 \.idea/
+# Bootstrap
+app/bootstrap*
+
+# Symfony directories
+*/logs/*
+*/cache/*
+web/uploads/*
+
+# Configuration files
+app/config/parameters.ini
+app/config/parameters.yml
